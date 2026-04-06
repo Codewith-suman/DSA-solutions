@@ -1,0 +1,69 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.backup
+ehthumbs.db
+
+# IDE & Editor Configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+*.code-workspace
+
+# Compiled C/C++ Files
+*.exe
+*.o
+*.out
+*.so
+*.a
+*.dylib
+*.lib
+*.dll
+*.obj
+
+# Build Directories
+/build/
+/bin/
+/dist/
+/obj/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Node.js (if used)
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Temporary Files
+*.temp
+*.log
+*.tmp
+.~*
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+$RECYCLE.BIN/
+desktop.ini
+
+# Git
+.git/
+.gitconfig
